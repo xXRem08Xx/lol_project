@@ -1,0 +1,5 @@
+train: ./train_data
+val: ./train_data
+
+nc: 1
+names: ['icon']
